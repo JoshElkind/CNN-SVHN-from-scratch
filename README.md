@@ -80,7 +80,7 @@ Epoch 30/30:  loss=0.2345  acc=0.9523  val_acc=0.9287
 
 ## Real-World Street Address Recognition
 
-sample exmaples
+Some Examples
 
 <img src="demo-assets/img1.png" width="60"> **16 (98.2%)**
 <img src="demo-assets/img2.png" width="60"> **21 (97.6%)**
