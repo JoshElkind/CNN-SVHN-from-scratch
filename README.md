@@ -80,12 +80,6 @@ Epoch 30/30:  loss=0.2345  acc=0.9523  val_acc=0.9287
 
 ## Real-World Street Address Recognition
 
-## Demo Assets - Model Predictions
-
-### MNIST Style Digit Recognition
-
-## Demo Assets - Model Predictions
-
 # sample exmaples
 
 <img src="demo-assets/img1.png" width="60"> **16 (98.2%)**
